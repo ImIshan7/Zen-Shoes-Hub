@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zen-Shoes-Hub/static/css/main.b34804f6.css",
+    "main.js": "/Zen-Shoes-Hub/static/js/main.939c81c8.js",
+    "static/js/453.aa2111c6.chunk.js": "/Zen-Shoes-Hub/static/js/453.aa2111c6.chunk.js",
+    "index.html": "/Zen-Shoes-Hub/index.html",
+    "main.b34804f6.css.map": "/Zen-Shoes-Hub/static/css/main.b34804f6.css.map",
+    "main.939c81c8.js.map": "/Zen-Shoes-Hub/static/js/main.939c81c8.js.map",
+    "453.aa2111c6.chunk.js.map": "/Zen-Shoes-Hub/static/js/453.aa2111c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b34804f6.css",
+    "static/js/main.939c81c8.js"
+  ]
+}
